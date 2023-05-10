@@ -1,0 +1,5 @@
+C:\Users\Alien\Desktop\UserSignUp.exe
+C:\Users\Alien\Desktop\UserSignUp.dll
+C:\Users\Alien\Desktop\UserSignUp.deps.json
+C:\Users\Alien\Desktop\UserSignUp.runtimeconfig.json
+C:\Users\Alien\Desktop\UserSignUp.pdb

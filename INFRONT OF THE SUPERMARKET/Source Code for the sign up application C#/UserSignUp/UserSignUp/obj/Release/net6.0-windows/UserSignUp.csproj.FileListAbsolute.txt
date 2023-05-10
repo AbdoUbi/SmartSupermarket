@@ -1,0 +1,51 @@
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.exe
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.deps.json
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.runtimeconfig.json
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.AssemblyReference.cache
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.SmartSupermarket.resources
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.GenerateResource.cache
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfoInputs.cache
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfo.cs
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.CoreCompileInputs.cache
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\refint\UserSignUp.dll
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.genruntimeconfig.cache
+C:\Users\Alien\Desktop\Senior Project\USER SIGN UP\UserSignUp\UserSignUp\obj\Release\net6.0-windows\ref\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.exe
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.deps.json
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.runtimeconfig.json
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.AssemblyReference.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.SmartSupermarket.resources
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.GenerateResource.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfoInputs.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfo.cs
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.CoreCompileInputs.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\refint\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.genruntimeconfig.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application\UserSignUp\UserSignUp\obj\Release\net6.0-windows\ref\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.exe
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.deps.json
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.runtimeconfig.json
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\bin\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.AssemblyReference.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.SmartSupermarket.resources
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.GenerateResource.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfoInputs.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.AssemblyInfo.cs
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.csproj.CoreCompileInputs.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\refint\UserSignUp.dll
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.pdb
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\UserSignUp.genruntimeconfig.cache
+C:\Users\Alien\Desktop\CODE\INFRONT OF THE SUPERMARKET\Source Code for the sign up application C#\UserSignUp\UserSignUp\obj\Release\net6.0-windows\ref\UserSignUp.dll

@@ -1,0 +1,6 @@
+SHOPPING RECEIPT
+Item: Hell Green - Price: 2
+Item: Hell Green - Price: 2
+---------
+Total: 4.0
+Have a nice day
